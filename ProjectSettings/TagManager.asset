@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Obstacle
   - Water
+  - Liquid
+  - Wall
   layers:
   - Default
   - TransparentFX

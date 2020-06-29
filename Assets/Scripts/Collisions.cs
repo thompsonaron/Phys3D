@@ -12,8 +12,8 @@ public class Collisions : MonoBehaviour
     public bool isInWater = false;
     private void Awake()
     {
-        solids = GameObject.FindGameObjectsWithTag("Obstacle");
-        liquids = GameObject.FindGameObjectsWithTag("Water");
+        solids = GameObject.FindGameObjectsWithTag("Wall");
+        liquids = GameObject.FindGameObjectsWithTag("Liquid");
     }
 
     public bool CollidingBottomYAxis(GameObject obj)
