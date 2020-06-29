@@ -24,8 +24,8 @@ public class ProjectileMotion : Collisions
     private void Awake()
     {
        // mass = 0.5f;
-        solids = GameObject.FindGameObjectsWithTag("Obstacle");
-        liquids = GameObject.FindGameObjectsWithTag("Water");
+        solids = GameObject.FindGameObjectsWithTag("Wall");
+        liquids = GameObject.FindGameObjectsWithTag("Liquid");
         playerController = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
     }
 

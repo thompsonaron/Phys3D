@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 77033099}
   - component: {fileID: 77033098}
   m_Layer: 0
-  m_Name: Cube (15)
+  m_Name: Wall5
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -319,7 +319,7 @@ GameObject:
   - component: {fileID: 731655523}
   - component: {fileID: 731655522}
   m_Layer: 0
-  m_Name: Cube (22)
+  m_Name: Wall6
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -412,7 +412,7 @@ GameObject:
   - component: {fileID: 912375183}
   - component: {fileID: 912375182}
   m_Layer: 0
-  m_Name: Cube (19)
+  m_Name: Wall4
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -505,7 +505,7 @@ GameObject:
   - component: {fileID: 1026178984}
   - component: {fileID: 1026178983}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Wall
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -598,7 +598,7 @@ GameObject:
   - component: {fileID: 1071420608}
   - component: {fileID: 1071420607}
   m_Layer: 0
-  m_Name: Cube (18)
+  m_Name: Wall1
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -691,7 +691,7 @@ GameObject:
   - component: {fileID: 1232169837}
   - component: {fileID: 1232169836}
   m_Layer: 0
-  m_Name: Water
+  m_Name: Liquid
   m_TagString: Liquid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -784,7 +784,7 @@ GameObject:
   - component: {fileID: 1420199387}
   - component: {fileID: 1420199386}
   m_Layer: 0
-  m_Name: Cube (20)
+  m_Name: Wall3
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -877,7 +877,7 @@ GameObject:
   - component: {fileID: 1498388940}
   - component: {fileID: 1498388939}
   m_Layer: 0
-  m_Name: Cube (23)
+  m_Name: Wall7
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -970,7 +970,7 @@ GameObject:
   - component: {fileID: 1644856963}
   - component: {fileID: 1644856962}
   m_Layer: 0
-  m_Name: Cube (6)
+  m_Name: Wall2
   m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
